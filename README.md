@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jyots706/Java/tree/master/0048-rotate-image) |
+| [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jyots706/Java/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
