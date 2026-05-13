@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/jyots706/Java/tree/master/0182-duplicate-emails) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jyots706/Java/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jyots706/Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
