@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/jyots706/Java/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jyots706/Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyots706/Java/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3340-check-balanced-string](https://github.com/jyots706/Java/tree/master/3340-check-balanced-string) |
 ## String Matching
 |  |
 | ------- |
