@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/jyots706/Java/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/jyots706/Java/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/jyots706/Java/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jyots706/Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jyots706/Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0165-compare-version-numbers](https://github.com/jyots706/Java/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/jyots706/Java/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jyots706/Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
