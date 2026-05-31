@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jyots706/Java/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyots706/Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyots706/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jyots706/Java/tree/master/0048-rotate-image) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyots706/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Matrix
 |  |
 | ------- |
