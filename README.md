@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jyots706/Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyots706/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/jyots706/Java/tree/master/3340-check-balanced-string) |
+| [3941-password-strength](https://github.com/jyots706/Java/tree/master/3941-password-strength) |
 ## String Matching
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jyots706/Java/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/jyots706/Java/tree/master/0290-word-pattern) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyots706/Java/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3941-password-strength](https://github.com/jyots706/Java/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
 | ------- |
