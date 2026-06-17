@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jyots706/Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyots706/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/jyots706/Java/tree/master/3340-check-balanced-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/jyots706/Java/tree/master/3612-process-string-with-special-operations-i) |
 | [3941-password-strength](https://github.com/jyots706/Java/tree/master/3941-password-strength) |
 ## String Matching
 |  |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/jyots706/Java/tree/master/0319-bulb-switcher) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/jyots706/Java/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
