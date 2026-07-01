@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jyots706/Java/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyots706/Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyots706/Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyots706/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/jyots706/Java/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/jyots706/Java/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jyots706/Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyots706/Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyots706/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/jyots706/Java/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/jyots706/Java/tree/master/3612-process-string-with-special-operations-i) |
