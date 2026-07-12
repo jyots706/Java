@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jyots706/Java/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyots706/Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
+| [1331-rank-transform-of-an-array](https://github.com/jyots706/Java/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyots706/Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyots706/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jyots706/Java/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/jyots706/Java/tree/master/0290-word-pattern) |
+| [1331-rank-transform-of-an-array](https://github.com/jyots706/Java/tree/master/1331-rank-transform-of-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyots706/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3941-password-strength](https://github.com/jyots706/Java/tree/master/3941-password-strength) |
 ## Divide and Conquer
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/jyots706/Java/tree/master/3612-process-string-with-special-operations-i) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/jyots706/Java/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
