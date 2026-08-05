@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jyots706/Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/jyots706/Java/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jyots706/Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jyots706/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/jyots706/Java/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyots706/Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jyots706/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
 ## Database
 |  |
