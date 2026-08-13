@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/jyots706/Java/tree/master/0165-compare-version-numbers) |
+| [0257-binary-tree-paths](https://github.com/jyots706/Java/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/jyots706/Java/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/jyots706/Java/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jyots706/Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jyots706/Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jyots706/Java/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jyots706/Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/jyots706/Java/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jyots706/Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jyots706/Java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jyots706/Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jyots706/Java/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jyots706/Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/jyots706/Java/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jyots706/Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jyots706/Java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jyots706/Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jyots706/Java/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jyots706/Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/jyots706/Java/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/jyots706/Java/tree/master/0134-gas-station) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/jyots706/Java/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
