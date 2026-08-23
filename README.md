@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jyots706/Java/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyots706/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jyots706/Java/tree/master/0198-house-robber) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jyots706/Java/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/jyots706/Java/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/jyots706/Java/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/jyots706/Java/tree/master/0290-word-pattern) |
@@ -168,5 +170,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jyots706/Java/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/jyots706/Java/tree/master/0257-binary-tree-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jyots706/Java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
