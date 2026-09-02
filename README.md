@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jyots706/Java/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/jyots706/Java/tree/master/0062-unique-paths) |
 | [0319-bulb-switcher](https://github.com/jyots706/Java/tree/master/0319-bulb-switcher) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jyots706/Java/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyots706/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jyots706/Java/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/jyots706/Java/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyots706/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jyots706/Java/tree/master/0198-house-robber) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jyots706/Java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jyots706/Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
