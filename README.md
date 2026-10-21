@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jyots706/Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jyots706/Java/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/jyots706/Java/tree/master/0300-longest-increasing-subsequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jyots706/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/jyots706/Java/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jyots706/Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jyots706/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jyots706/Java/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/jyots706/Java/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/jyots706/Java/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jyots706/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/jyots706/Java/tree/master/1331-rank-transform-of-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jyots706/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3941-password-strength](https://github.com/jyots706/Java/tree/master/3941-password-strength) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/jyots706/Java/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/jyots706/Java/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jyots706/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/jyots706/Java/tree/master/1331-rank-transform-of-an-array) |
 ## Number Theory
 |  |
